@@ -11,4 +11,10 @@ Run the main.py file
 If you get the error "AttributeError: module 'time has no attribute 'clock'"
 
 Browse to ``C:\Users\{enter your username here}\AppData\Local\Programs\Python\{enter your python folder here}\Lib\site-packages\sqlalchemy\util``
-open ``compat.py`` search for ``time.clock`` with Ctrl + F and replace it with ``time.time``
+
+Open ``compat.py`` search for ``time.clock`` with Ctrl + F and replace it with ``time.time``
+
+
+## You can add your own language support by simply training it on other languages
+
+All languages are located here 
