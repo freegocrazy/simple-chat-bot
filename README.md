@@ -17,4 +17,4 @@ Open ``compat.py`` search for ``time.clock`` with Ctrl + F and replace it with `
 
 ## You can add your own language support by simply training it on other languages
 
-All languages are located here 
+All languages are located [here](https://github.com/freegocrazy/simple-chat-bot/blob/main/languages.txt)
