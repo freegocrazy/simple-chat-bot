@@ -1,6 +1,7 @@
 # Simple Chat Bot
 
 A simple chat bot in python.
+
 Please use sort of proper grammar as it won't understand you because chatterbot is not very good with actual learning.
 
 Install all dependencies
